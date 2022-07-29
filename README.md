@@ -1,12 +1,12 @@
 # Mixed message
 
 ## **-Description:** 
-This is a message generator program. Every time a user runs a program, they should get a new, randomized output.
-I built this project to practice coding and hopefuly improve by exchanging with other people.
+This is a message generator program. Every time a user runs the program, they get a new, randomized message.
+The purpose of this project is to practice coding and git hub.
 
 ## **-Feature:** 
-Generate random word to make a robot speak.
-!(gif){https://media.giphy.com/media/l0MYKtrxlkiYE596g/giphy.gif}
+
+<img src="https://media.giphy.com/media/l0MYKtrxlkiYE596g/giphy.gif" width="100" > Generate random word to make a robot speak.
 
 ## **-How to use:** 
 * download zip file
