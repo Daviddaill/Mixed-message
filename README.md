@@ -9,6 +9,8 @@ The purpose of this project is to practice coding and git hub.
 <img src="https://media.giphy.com/media/l0MYKtrxlkiYE596g/giphy.gif" width="100" > Generate random word to make a robot speak.
 
 ## **-How to use:** 
+* visit: https://daviddaill.github.io/mixed-message/
+or
 * download zip file
 * run $ node script.js on your command line
  
