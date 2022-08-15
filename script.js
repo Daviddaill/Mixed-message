@@ -6,7 +6,7 @@ const generator = {
   action1: ['assist', 'help', 'betraye', 'anihilate','dance salsa with', 'travel the world with',  'eat', 'teach mathematics to', 'understand',  'study human behaviour with', 'write a paper on'],
   question: ['be friend with', 'sing with', 'dance with', 'tell a joke to', 'tell a sercet to', 'be a big brother to', 'experience love with', 'teach Chinese to', 'visit the  most beautiful places on earth with', 'write a screanplay with'],
 
-  // create an array of 1 word per key, return the desire key word
+// create an array of 1 word per key, return the desire key word
   getWord(num) {
     let array = [];
     for (key in generator) {
@@ -43,11 +43,10 @@ function createMsge() {
 let view = document.getElementById('view-button');
 let text = document.getElementById('text');
 let codey = document.getElementById('codey');
+let message = document.getElementById('message');
 
 let open = function () {
   codey.style.display = 'block';
-  codey.style.position= 'absolute';
-  codey.style.left= '50px';
   text.style.display = 'block';
   codey.style.animationName=  'rotate'
   codey.style.animationDuration= '0.7s';
